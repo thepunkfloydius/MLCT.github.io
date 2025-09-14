@@ -18,6 +18,9 @@ The seminar has two types of activities:
 
    Physical address: 105066, Moscow, Staraya Basmannaya, 21/4, room A-117.
 
+   <br>
+  <br>
+
    ## Recent talks
    
   [September 13, 2025] (rus, [link](https://drive.google.com/file/d/1jdfk3eNIvd7Zc-xXPN8e6DA74sNtx6LG/view))
