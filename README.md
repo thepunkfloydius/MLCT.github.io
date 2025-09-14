@@ -31,8 +31,8 @@ The seminar has two types of activities:
 We also discuss the potential impact of these findings on the foundations of mathematics and the theory of cognition.
 
 References:
-1. Sergei Artemov, Consistency formula is strictly stronger in PA than PA-consistency. https://doi.org/10.48550/arXiv.2508.20346
-2. Sergei Artemov, Serial properties, selector proofs and the provability of consistency, Journal of Logic and Computation, Volume 35, Issue 3, April 2025, exae034, https://doi.org/10.1093/logcom/exae034
+1. Sergei Artemov, [Consistency formula is strictly stronger in PA than PA-consistency](https://doi.org/10.48550/arXiv.2508.20346).
+2. Sergei Artemov, [Serial properties, selector proofs and the provability of consistency](https://doi.org/10.1093/logcom/exae034), Journal of Logic and Computation, Volume 35, Issue 3, April 2025, exae034. 
 
 <br>
 
@@ -42,7 +42,7 @@ References:
 
 --- Vladimir Voevodsky on the concept of mathematical structure
 
-n our email correspondence from 2016, Vladimir Voevodsky proposed an original concept of mathematical structure. This concept was motivated by his work in homotopy type theory on the one hand, and his reading of Proclus's commentary on Euclid's definition of a plane angle (Definition 1.8 of the "Elements") on the other. In my presentation, I will introduce Vladimir's conception of mathematical structure, compare it with standard conceptions, and touch upon some of the questions Vladimir raised in our correspondence.
+In our email correspondence from 2016, Vladimir Voevodsky proposed an original concept of mathematical structure. This concept was motivated by his work in homotopy type theory on the one hand, and his reading of Proclus's commentary on Euclid's definition of a plane angle (Definition 1.8 of the "Elements") on the other. In my presentation, I will introduce Vladimir's conception of mathematical structure, compare it with standard conceptions, and touch upon some of the questions Vladimir raised in our correspondence.
 
 This presentation is based on the article [arXiv:2409.02935](https://arxiv.org/abs/2409.02935).
 
