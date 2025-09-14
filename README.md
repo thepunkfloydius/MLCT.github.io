@@ -32,7 +32,9 @@ We also discuss the potential impact of these findings on the foundations of mat
 
 References:
 1. Sergei Artemov, [Consistency formula is strictly stronger in PA than PA-consistency](https://doi.org/10.48550/arXiv.2508.20346).
-2. Sergei Artemov, [Serial properties, selector proofs and the provability of consistency](https://doi.org/10.1093/logcom/exae034), Journal of Logic and Computation, Volume 35, Issue 3, April 2025, exae034. 
+2. Sergei Artemov, [Serial properties, selector proofs and the provability of consistency](https://doi.org/10.1093/logcom/exae034), Journal of Logic and Computation, Volume 35, Issue 3, April 2025, exae034.
+
+([poster](https://github.com/thepunkfloydius/MLCT.github.io/blob/main/Artemov.png))
 
 <br>
 
@@ -61,5 +63,7 @@ Over the past 150 years, some of the most profound and influential theorems in m
 4. Alan Turing's Halting Problem: Proving the existence of unsolvable computational problems.
    
 Remarkably, these diverse theorems, along with several others, can be understood as manifestations of a single, elegant theorem from basic category theory. This presentation will elucidate this theorem and demonstrate its various instances.
+
+([poster](https://github.com/thepunkfloydius/MLCT.github.io/blob/main/Yanofsky.png))
 
 
