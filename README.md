@@ -6,13 +6,15 @@ The seminar has two types of activities:
 1. Organization of plenary talks by invited speakers;
 2. Seminar-style classes on a given topic.
 
- Seminar organizers: Ramazan Ayupov (HSE University) & Arnold Grigoryan (HSE University, LMU München). 
+ Seminar organizers: Ramazan Ayupov (HSE University) & Arnold Grigorian (MIPT, LMU München). 
 
  If you would like to become a participant in the seminar, give a talk, or simply receive announcements, please write to one of the following emails:
  - ramazan.i.ayupov [at] gmail.com
  - arnold.g1020 [at] gmail.com
 
    [The seminar's chat on Telegram](https://t.me/+nxHPt0oVrXwyMGRi) (rus).
+
+   Physical address: 105066, Moscow, Staraya Basmannaya, 21/4, room A-117.
 
    ## Recent talks
    
