@@ -38,7 +38,9 @@ References:
 
 --- Vladimir Voevodsky on the concept of mathematical structure
 
-n our email correspondence from 2016, Vladimir Voevodsky proposed an original concept of mathematical structure. This concept was motivated by his work in homotopy type theory on the one hand, and his reading of Proclus's commentary on Euclid's definition of a plane angle (Definition 1.8 of the "Elements") on the other. In my presentation, I will introduce Vladimir's conception of mathematical structure, compare it with standard conceptions, and touch upon some of the questions Vladimir raised in our correspondence. This presentation is based on the article [arXiv:2409.02935](https://arxiv.org/abs/2409.02935).
+n our email correspondence from 2016, Vladimir Voevodsky proposed an original concept of mathematical structure. This concept was motivated by his work in homotopy type theory on the one hand, and his reading of Proclus's commentary on Euclid's definition of a plane angle (Definition 1.8 of the "Elements") on the other. In my presentation, I will introduce Vladimir's conception of mathematical structure, compare it with standard conceptions, and touch upon some of the questions Vladimir raised in our correspondence.
+
+This presentation is based on the article [arXiv:2409.02935](https://arxiv.org/abs/2409.02935).
 
 [January 31, 2025] (eng, [link](https://disk.yandex.ru/client/disk/FTLPV%2C%20%D0%A4%D0%A4%20(%D0%BF%D0%BE%20%D0%B3%D0%BE%D0%B4%D0%B0%D0%BC)/2025?idApp=client&dialog=slider&idDialog=%2Fdisk%2FFTLPV%2C%20%D0%A4%D0%A4%20(%D0%BF%D0%BE%20%D0%B3%D0%BE%D0%B4%D0%B0%D0%BC)%2F2025%2F%D0%A4%D0%A4_%D0%AF%D0%BD%D0%BE%D1%84%D1%81%D0%BA%D0%B8%D0%B9_31.01.mp4))
 
