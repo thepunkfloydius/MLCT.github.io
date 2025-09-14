@@ -32,22 +32,16 @@ References:
 1. Sergei Artemov, Consistency formula is strictly stronger in PA than PA-consistency. https://doi.org/10.48550/arXiv.2508.20346
 2. Sergei Artemov, Serial properties, selector proofs and the provability of consistency, Journal of Logic and Computation, Volume 35, Issue 3, April 2025, exae034, https://doi.org/10.1093/logcom/exae034
 
-![](Artemov.png)
-
-
 [February 8, 2025] (rus, [link](https://disk.yandex.ru/d/PK1tHzpz1UEUUA/%D0%97%D0%B0%D0%BF%D0%B8%D1%81%D0%B8%20%D1%81%D0%B5%D0%BC%D0%B8%D0%BD%D0%B0%D1%80%D0%BE%D0%B2/(09)%2008.02.2025%20-%20%D0%9F%D0%BE%D0%BD%D1%8F%D1%82%D0%B8%D0%B5%20%D0%BC%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B9%20%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%82%D1%83%D1%80%D1%8B%20%D1%81%D0%BE%D0%B3%D0%BB%D0%B0%D1%81%D0%BD%D0%BE%20%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80%D1%83%20%D0%92%D0%BE%D0%B5%D0%B2%D0%BE%D0%B4%D1%81%D0%BA%D0%BE%D0%BC%D1%83.mp4))
 
 **Andrei Rodin** (Archives Henri-Poincaré, university of Lorraine, France)
 
---- Понятие математической структуры согласно Владимиру Воеводскому.
+--- Vladimir Voevodsky on the concept of mathematical structure
 
-В нашей переписке по электронной почте, датируемой 2016 годом, Владимир Воеводский предложил оригинальное понятие математической структуры, которое была мотивирована, с одной стороны, его работой в области гомотопической теории типов, а с другой стороны, его чтением комментария Прокла к определению плоского угла у Евклида (Определение 1.8 «Начал»). В своем выступлении я представлю концепцию математической структуры согласно Владимиру, сравниваю ее со стандартными концепциями и коснусь некоторых вопросов, поставленных Владимиром в нашей переписке.
-
-Доклад основан на следующей статье: [arXiv:2409.02935](https://arxiv.org/abs/2409.02935)
+n our email correspondence from 2016, Vladimir Voevodsky proposed an original concept of mathematical structure. This concept was motivated by his work in homotopy type theory on the one hand, and his reading of Proclus's commentary on Euclid's definition of a plane angle (Definition 1.8 of the "Elements") on the other. In my presentation, I will introduce Vladimir's conception of mathematical structure, compare it with standard conceptions, and touch upon some of the questions Vladimir raised in our correspondence. This presentation is based on the article [arXiv:2409.02935](https://arxiv.org/abs/2409.02935).
 
 [January 31, 2025] (eng, [link](https://disk.yandex.ru/client/disk/FTLPV%2C%20%D0%A4%D0%A4%20(%D0%BF%D0%BE%20%D0%B3%D0%BE%D0%B4%D0%B0%D0%BC)/2025?idApp=client&dialog=slider&idDialog=%2Fdisk%2FFTLPV%2C%20%D0%A4%D0%A4%20(%D0%BF%D0%BE%20%D0%B3%D0%BE%D0%B4%D0%B0%D0%BC)%2F2025%2F%D0%A4%D0%A4_%D0%AF%D0%BD%D0%BE%D1%84%D1%81%D0%BA%D0%B8%D0%B9_31.01.mp4))
 
-![](Rodin.jpg)
 
 **Noson Yanofsky** (Professor of Computer and Information Science at Brooklyn College and The Graduate Center, CUNY)
 
@@ -60,7 +54,5 @@ Over the past 150 years, some of the most profound and influential theorems in m
 4. Alan Turing's Halting Problem: Proving the existence of unsolvable computational problems.
    
 Remarkably, these diverse theorems, along with several others, can be understood as manifestations of a single, elegant theorem from basic category theory. This presentation will elucidate this theorem and demonstrate its various instances.
-
-![](Yanofsky.png)
 
 
