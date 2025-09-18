@@ -43,6 +43,8 @@ Science, 91, 721–740.
 
 (poster)
 
+   <br>
+
    ## Recent talks
    
   [September 13, 2025] (rus, [link](https://www.youtube.com/watch?v=VI1TzoN_DVs) / [slides](https://drive.google.com/file/d/1zwGujcqYpOlhljM0_OpUbsim5Co4SiCw/view?usp=sharing))
