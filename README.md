@@ -20,6 +20,27 @@ The seminar has two types of activities:
 
    ## Upcoming events
 
+[October 18, 2025 (8:00AM SF / 6:00PM Мsc)] (eng, online)
+
+[**Paolo Mancosu**](https://philosophy.berkeley.edu/mancosu/) (Willis S. and Marion Slusser Professor of Philosophy, Department of Philosophy, UC Berkeley)
+
+--- Three applications of Zermelo's theorem on part-whole
+
+The aim of the presentation is to give a general overview of the application of a result by Ernst
+Zermelo to three very different areas of investigation: abstraction principles in neologicism, the axiom of
+choice in second-order logic, and regularity properties in probability theory. The talk is based on three
+articles that have recently appeared (see bibliography).
+
+Bibliography:
+
+1. 2019, (with Benjamin Siskind), "Neologicist Foundations: Inconsistent abstraction principles and part-whole", in
+Mras, Gabriele M.; Weingartner, Paul; Ritter, Bernhard (eds.), Philosophy of Logic and Mathematics: Proceedings
+of the 41st International Wittgenstein Symposium. De Gruyter, Berlin, Munich, Boston, 2019, pp. 215–248.
+2. 2023, (with Benjamin Siskind and Stewart Shapiro), "A note on choice principles in second-order logic", The Review
+of Symbolic Logic, 16(2), pp. 339-350.
+3. 2024, (with Guillaume Massas), "Totality, Regularity and Cardinality in Probability Theory", Philosophy of
+Science, 91, 721–740.
+
    ## Recent talks
    
   [September 13, 2025] (rus, [link](https://www.youtube.com/watch?v=VI1TzoN_DVs) / [slides](https://drive.google.com/file/d/1zwGujcqYpOlhljM0_OpUbsim5Co4SiCw/view?usp=sharing))
