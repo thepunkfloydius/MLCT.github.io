@@ -18,7 +18,7 @@ The seminar has two types of activities:
 
    <br>
 
-    ## Upcoming events
+**UPCOMING EVENTS**
 
 [October 18, 2025 (8:00AM SF / 6:00PM Мsc)] (eng, online) Registration link:
 
@@ -45,7 +45,7 @@ Science, 91, 721–740.
 
    <br>
 
-   ## Recent talks
+  **RECENT TALKS**
    
   [September 13, 2025] (rus, [link](https://www.youtube.com/watch?v=VI1TzoN_DVs) / [slides](https://drive.google.com/file/d/1zwGujcqYpOlhljM0_OpUbsim5Co4SiCw/view?usp=sharing))
   
