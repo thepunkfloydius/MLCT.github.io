@@ -20,7 +20,7 @@ The seminar has two types of activities:
 
 **UPCOMING EVENTS**
 
-[October 18, 2025 (8:00AM SF / 6:00PM Мsc)] (eng, online) Registration link:
+[October 18, 2025 (8:00AM SF / 6:00PM МSC)] (eng, online) Registration link:
 
 [**Paolo Mancosu**](https://philosophy.berkeley.edu/mancosu/) (Willis S. and Marion Slusser Professor of Philosophy, Department of Philosophy, UC Berkeley)
 
