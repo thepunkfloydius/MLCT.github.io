@@ -18,7 +18,7 @@ The seminar has two types of activities:
 
    <br>
 
-     ## Upcoming events
+    ## Upcoming events
 
 [October 18, 2025 (8:00AM SF / 6:00PM Мsc)] (eng, online) Registration link:
 
