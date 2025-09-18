@@ -20,7 +20,7 @@ The seminar has two types of activities:
 
    ## Upcoming events
 
-[October 18, 2025 (8:00AM SF / 6:00PM Мsc)] (eng, online)
+[October 18, 2025 (8:00AM SF / 6:00PM Мsc)] (eng, online) Registration link:
 
 [**Paolo Mancosu**](https://philosophy.berkeley.edu/mancosu/) (Willis S. and Marion Slusser Professor of Philosophy, Department of Philosophy, UC Berkeley)
 
@@ -40,6 +40,8 @@ of the 41st International Wittgenstein Symposium. De Gruyter, Berlin, Munich, Bo
 of Symbolic Logic, 16(2), pp. 339-350.
 3. 2024, (with Guillaume Massas), "Totality, Regularity and Cardinality in Probability Theory", Philosophy of
 Science, 91, 721–740.
+
+(poster)
 
    ## Recent talks
    
