@@ -18,9 +18,11 @@ The seminar has two types of activities:
 
    <br>
 
+   ## Upcoming events
+
    ## Recent talks
    
-  [September 13, 2025] (rus, [link](https://drive.google.com/file/d/1jdfk3eNIvd7Zc-xXPN8e6DA74sNtx6LG/view) / [slides](https://drive.google.com/file/d/1zwGujcqYpOlhljM0_OpUbsim5Co4SiCw/view?usp=sharing))
+  [September 13, 2025] (rus, [link1](https://www.youtube.com/watch?v=VI1TzoN_DVs) / [slides](https://drive.google.com/file/d/1zwGujcqYpOlhljM0_OpUbsim5Co4SiCw/view?usp=sharing))
   
   [**Sergei N. Artemov**](https://sartemov.ws.gc.cuny.edu/) (Distinguished Professor of the Graduate Center of the City University of New York)
   
@@ -38,7 +40,7 @@ References:
 
 <br>
 
-[February 8, 2025] (rus, [link](https://drive.google.com/file/d/1GcujLa68L2rGrne7nBmVqiKwc_sM1jd5/view?usp=drive_link))
+[February 8, 2025] (rus, [link](https://www.youtube.com/watch?v=3hWWRcXjXf0))
 
 [**Andrei Rodin**](https://philomatica.org/) (Archives Henri-Poincaré, university of Lorraine, France)
 
