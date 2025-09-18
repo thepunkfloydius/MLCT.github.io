@@ -22,7 +22,7 @@ The seminar has two types of activities:
 
    ## Recent talks
    
-  [September 13, 2025] (rus, [link1](https://www.youtube.com/watch?v=VI1TzoN_DVs) / [slides](https://drive.google.com/file/d/1zwGujcqYpOlhljM0_OpUbsim5Co4SiCw/view?usp=sharing))
+  [September 13, 2025] (rus, [link](https://www.youtube.com/watch?v=VI1TzoN_DVs) / [slides](https://drive.google.com/file/d/1zwGujcqYpOlhljM0_OpUbsim5Co4SiCw/view?usp=sharing))
   
   [**Sergei N. Artemov**](https://sartemov.ws.gc.cuny.edu/) (Distinguished Professor of the Graduate Center of the City University of New York)
   
