@@ -49,13 +49,13 @@ articles that have recently appeared (see bibliography).
 
 Bibliography:
 
-1. 2019, (with Benjamin Siskind), "Neologicist Foundations: Inconsistent abstraction principles and part-whole", in
+1. 2019, (with Benjamin Siskind), ["Neologicist Foundations: Inconsistent abstraction principles and part-whole", in
 Mras, Gabriele M.; Weingartner, Paul; Ritter, Bernhard (eds.), Philosophy of Logic and Mathematics: Proceedings
-of the 41st International Wittgenstein Symposium. De Gruyter, Berlin, Munich, Boston, 2019, pp. 215–248.
-2. 2023, (with Benjamin Siskind and Stewart Shapiro), "A note on choice principles in second-order logic", The Review
-of Symbolic Logic, 16(2), pp. 339-350.
-3. 2024, (with Guillaume Massas), "Totality, Regularity and Cardinality in Probability Theory", Philosophy of
-Science, 91, 721–740.
+of the 41st International Wittgenstein Symposium. De Gruyter, Berlin, Munich, Boston, 2019, pp. 215–248](https://www.degruyterbrill.com/document/doi/10.1515/9783110657883-014/html?srsltid=AfmBOorJpjKn8QBJxlwj4txWtQE2Q0doE7Wmdtl_ZyhNcTvUmIx6_a-Q).
+2. 2023, (with Benjamin Siskind and Stewart Shapiro), ["A note on choice principles in second-order logic", The Review
+of Symbolic Logic, 16(2), pp. 339-350](https://www.cambridge.org/core/journals/review-of-symbolic-logic/article/note-on-choice-principles-in-secondorder-logic/1BE5AB5877E680848B7A1AE4A58DBAA4).
+3. 2024, (with Guillaume Massas), ["Totality, Regularity and Cardinality in Probability Theory", Philosophy of
+Science, 91, 721–740](https://www.cambridge.org/core/journals/philosophy-of-science/article/totality-regularity-and-cardinality-in-probability-theory/1FABB0AD8522D2634335CC584D58BF56).
 
 (poster)
 
