@@ -20,7 +20,21 @@ The seminar has two types of activities:
 
 **UPCOMING EVENTS**
 
-[October 18, 2025 (8:00AM SF / 6:00PM МSC)] (eng, online) Registration link:
+[October 4, 2025 (11:00AM EDT / 6:00PM МSC)] (eng, online) Registration link: TBA
+
+[**Joseph Y. Halpern**](https://www.cs.cornell.edu/home/halpern/) (Joseph C. Ford Professor in the Computer Science Department at Cornell Univeesity.)
+
+--- Actual Causality: A Survey
+
+What does it mean that an event C ``actually caused'' event E? The problem of defining actual causation goes beyond mere philosophical speculation.  For example, in many legal arguments, it is precisely what needs to be established in order to determine responsibility.   (What exactly was the actual cause of the car accident or the medical problem?) The philosophy literature has been struggling with the problem of defining causality since the days of Hume, in the 1700s. Many of the definitions have been couched in terms of counterfactuals. (C is a cause of E if, had C not happened, then E would not have happened.) In 2001, Judea Pearl and I introduced a new definition of actual cause, using Pearl's notion of structural equations to model counterfactuals.  The definition has been revised twice since then, extended to deal with notions like "responsibility" and "blame", and applied in databases and program verification.  I survey the last 15 years of work here, including joint work with Judea Pearl, Hana Chockler, and Chris Hitchcock.  The talk will be completely self-contained.
+
+(poster)
+
+   <br>
+
+
+
+[October 18, 2025 (8:00AM SF / 6:00PM МSC)] (eng, online) Registration link: TBA
 
 [**Paolo Mancosu**](https://philosophy.berkeley.edu/mancosu/) (Willis S. and Marion Slusser Professor of Philosophy, Department of Philosophy, UC Berkeley)
 
