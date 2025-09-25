@@ -1,4 +1,4 @@
-![](logo.jpg)
+# Seminar on Mathematical Logic and Category Theory
   
 The research and educational seminar "Mathematical Logic and Category Theory" (at the [International Laboratory for Logic, Linguistics and Formal Philosophy](https://llfp.hse.ru/en/), [HSE University](https://www.hse.ru/en/)) is aimed at the joint study of the fundamentals and current results in the fields of categorical logiс, foundations of mathematics, type, proof, and model theories. Special attention is given to the study of problems and approaches at the intersection of mathematics, formal philosophy, logic, and theoretical computer science. The seminars are intended to introduce the basic concepts and topics of mathematical disciplines directly related to _HoTT, MLTT, category theory, and formal arithmetic_. Participation does not presuppose special knowledge in the above-mentioned fields. The seminar is conducted in Russian and English.
 
