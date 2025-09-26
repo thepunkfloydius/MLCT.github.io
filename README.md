@@ -20,7 +20,7 @@ The seminar has two types of activities:
 
 **UPCOMING EVENTS**
 
-[October 4, 2025 (11:00AM EDT / 6:00PM МSC)] (eng, online) Registration link: TBA
+[October 4, 2025 (11:00AM EDT / 6:00PM МSC)] (eng, online) [Registration link](https://llfp.hse.ru/en/announcements/1087904123.html)
 
 [**Joseph Y. Halpern**](https://www.cs.cornell.edu/home/halpern/) (Joseph C. Ford Professor in the Computer Science Department at Cornell Univeesity)
 
@@ -36,7 +36,7 @@ For example, in many legal arguments, it is precisely what needs to be establish
 
 
 
-[October 18, 2025 (8:00AM SF / 6:00PM МSC)] (eng, online) Registration link: TBA
+[October 18, 2025 (8:00AM SF / 6:00PM МSC)] (eng, online) [Registration link](https://llfp.hse.ru/announcements/1087905862.html)
 
 [**Paolo Mancosu**](https://philosophy.berkeley.edu/mancosu/) (Willis S. and Marion Slusser Professor of Philosophy, Department of Philosophy, UC Berkeley)
 
