@@ -30,7 +30,7 @@ What does it mean that an event C "actually caused" event E? The problem of defi
 
 For example, in many legal arguments, it is precisely what needs to be established in order to determine responsibility.   (What exactly was the actual cause of the car accident or the medical problem?) The philosophy literature has been struggling with the problem of defining causality since the days of Hume, in the 1700s. Many of the definitions have been couched in terms of counterfactuals. (C is a cause of E if, had C not happened, then E would not have happened.) In 2001, Judea Pearl and I introduced a new definition of actual cause, using Pearl's notion of structural equations to model counterfactuals.  The definition has been revised twice since then, extended to deal with notions like "responsibility" and "blame", and applied in databases and program verification.  I survey the last 15 years of work here, including joint work with Judea Pearl, Hana Chockler, and Chris Hitchcock.  The talk will be completely self-contained.
 
-(poster)
+([poster](Halpern.png))
 
    <br>
 
@@ -57,7 +57,7 @@ of Symbolic Logic, 16(2), pp. 339-350](https://www.cambridge.org/core/journals/r
 3. 2024, (with Guillaume Massas), ["Totality, Regularity and Cardinality in Probability Theory", Philosophy of
 Science, 91, 721–740](https://www.cambridge.org/core/journals/philosophy-of-science/article/totality-regularity-and-cardinality-in-probability-theory/1FABB0AD8522D2634335CC584D58BF56).
 
-(poster)
+([poster](Mancosu.png))
 
    <br>
 
