@@ -57,7 +57,7 @@ of Symbolic Logic, 16(2), pp. 339-350](https://www.cambridge.org/core/journals/r
 3. 2024, (with Guillaume Massas), ["Totality, Regularity and Cardinality in Probability Theory", Philosophy of
 Science, 91, 721–740](https://www.cambridge.org/core/journals/philosophy-of-science/article/totality-regularity-and-cardinality-in-probability-theory/1FABB0AD8522D2634335CC584D58BF56).
 
-([poster]())
+([poster](Mancosu.png))
 
    <br>
 
