@@ -34,8 +34,6 @@ For example, in many legal arguments, it is precisely what needs to be establish
 
    <br>
 
-
-
 [October 18, 2025 (8:00AM SF / 6:00PM МSC)] (eng, online) [Registration link](https://llfp.hse.ru/en/announcements/1087905862.html)
 
 [**Paolo Mancosu**](https://philosophy.berkeley.edu/mancosu/) (Willis S. and Marion Slusser Professor of Philosophy, Department of Philosophy, UC Berkeley)
@@ -58,6 +56,28 @@ of Symbolic Logic, 16(2), pp. 339-350](https://www.cambridge.org/core/journals/r
 Science, 91, 721–740](https://www.cambridge.org/core/journals/philosophy-of-science/article/totality-regularity-and-cardinality-in-probability-theory/1FABB0AD8522D2634335CC584D58BF56).
 
 ([poster](Mancosu.png))
+
+   <br>
+
+[November 01, 2025 (11:00AM EDT / 6:00PM МSC)] (eng, online) Registration link
+
+[**John L. Bell**](https://publish.uwo.ca/~jbell/) (Emeritus Professor, FRSC Department of Philosophy Western University London, Ontario Canada)
+
+--- Abstract and Variable Sets in Category Theory
+
+In 1895 Cantor gave a definitive formulation of the concept of set, namely,
+
+_A collection to a whole of definite, well-differentiated objects of our intuition or thought_.
+
+Let us call such a collection a _concrete set_. More than a decade earlier, Cantor had introduced the notion of cardinal number by appeal to a process of abstraction:
+
+_If we abstract not only from the nature of the elements of a set, and also from the order in which they are given, then there arises in us a definite general concept which I call the cardinal number of the set_.
+
+Lawvere has suggested calling Cantor’s cardinal numbers _abstract sets_. An abstract set may be considered as arising from a concrete set when each element has been purged of all intrinsic qualities aside from the quality which distinguishes that element from all the others. An abstract set is thus an embodiment of pure discreetness.
+
+In my talk I will describe how category theory provides the natural framework for understanding abstract sets, conceived of as static or as undergoing change.
+
+(poster)
 
    <br>
 
