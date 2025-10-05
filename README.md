@@ -70,7 +70,7 @@ In my talk I will describe how category theory provides the natural framework fo
 
   **RECENT TALKS**
 
-[October 04, 2025] (eng, link / [slides](https://drive.google.com/file/d/19aYGwkx5zSmi48L-bQcCl67Kx8z0zxEU/view?usp=sharing)) 
+[October 04, 2025] (eng, [link](https://youtu.be/JNPU41FBSAE?si=4NFm2lHinEfwHT56) / [slides](https://drive.google.com/file/d/19aYGwkx5zSmi48L-bQcCl67Kx8z0zxEU/view?usp=sharing)) 
 
 [**Joseph Y. Halpern**](https://www.cs.cornell.edu/home/halpern/) (Joseph C. Ford Professor in the Computer Science Department at Cornell Univeesity)
 
