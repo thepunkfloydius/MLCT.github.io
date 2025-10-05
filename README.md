@@ -9,8 +9,9 @@ The seminar has two types of activities:
  Seminar organizers: Ramazan Ayupov (HSE University) & Arnold Grigorian (MIPT, LMU München). 
 
  If you would like to become a participant in the seminar, give a talk, or simply receive announcements, please write to one of the following emails:
- - ramazan.i.ayupov [at] gmail [dot] com
  - arnold.g1020 [at] gmail [dot] com
+ - ramazan.i.ayupov [at] gmail [dot] com
+ 
 
    [The seminar's chat on Telegram](https://t.me/+nxHPt0oVrXwyMGRi) (rus).
 
