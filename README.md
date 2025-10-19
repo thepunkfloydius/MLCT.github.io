@@ -21,31 +21,6 @@ The seminar has two types of activities:
 
 **UPCOMING EVENTS**
 
-[October 18, 2025 (8:00AM SF / 6:00PM МSC)] (eng, online) [Registration link](https://llfp.hse.ru/en/announcements/1087905862.html)
-
-[**Paolo Mancosu**](https://philosophy.berkeley.edu/mancosu/) (Willis S. and Marion Slusser Professor of Philosophy, Department of Philosophy, UC Berkeley)
-
---- Three applications of Zermelo's theorem on part-whole
-
-The aim of the presentation is to give a general overview of the application of a result by Ernst
-Zermelo to three very different areas of investigation: abstraction principles in neologicism, the axiom of
-choice in second-order logic, and regularity properties in probability theory. The talk is based on three
-articles that have recently appeared (see bibliography).
-
-Bibliography:
-
-1. 2019, (with Benjamin Siskind), ["Neologicist Foundations: Inconsistent abstraction principles and part-whole", in
-Mras, Gabriele M.; Weingartner, Paul; Ritter, Bernhard (eds.), Philosophy of Logic and Mathematics: Proceedings
-of the 41st International Wittgenstein Symposium. De Gruyter, Berlin, Munich, Boston, 2019, pp. 215–248](https://www.degruyterbrill.com/document/doi/10.1515/9783110657883-014/html?srsltid=AfmBOorJpjKn8QBJxlwj4txWtQE2Q0doE7Wmdtl_ZyhNcTvUmIx6_a-Q).
-2. 2023, (with Benjamin Siskind and Stewart Shapiro), ["A note on choice principles in second-order logic", The Review
-of Symbolic Logic, 16(2), pp. 339-350](https://www.cambridge.org/core/journals/review-of-symbolic-logic/article/note-on-choice-principles-in-secondorder-logic/1BE5AB5877E680848B7A1AE4A58DBAA4).
-3. 2024, (with Guillaume Massas), ["Totality, Regularity and Cardinality in Probability Theory", Philosophy of
-Science, 91, 721–740](https://www.cambridge.org/core/journals/philosophy-of-science/article/totality-regularity-and-cardinality-in-probability-theory/1FABB0AD8522D2634335CC584D58BF56).
-
-([poster](Mancosu.png))
-
-   <br>
-
 [November 01, 2025 (11:00AM EDT / 6:00PM МSC)] (eng, online) Registration link
 
 [**John L. Bell**](https://publish.uwo.ca/~jbell/) (Emeritus Professor, FRSC Department of Philosophy Western University London, Ontario Canada)
@@ -69,6 +44,31 @@ In my talk I will describe how category theory provides the natural framework fo
    <br>
 
   **RECENT TALKS**
+
+[October 18, 2025] (eng, link / [slides](https://drive.google.com/file/d/1KqJVitxq0tIqx53ZCj4EoKcYOWlw-J2e/view?usp=sharing))
+
+[**Paolo Mancosu**](https://philosophy.berkeley.edu/mancosu/) (Willis S. and Marion Slusser Professor of Philosophy, Department of Philosophy, UC Berkeley)
+
+--- Three applications of Zermelo's theorem on part-whole
+
+The aim of the presentation is to give a general overview of the application of a result by Ernst
+Zermelo to three very different areas of investigation: abstraction principles in neologicism, the axiom of
+choice in second-order logic, and regularity properties in probability theory. The talk is based on three
+articles that have recently appeared (see bibliography).
+
+Bibliography:
+
+1. 2019, (with Benjamin Siskind), ["Neologicist Foundations: Inconsistent abstraction principles and part-whole", in
+Mras, Gabriele M.; Weingartner, Paul; Ritter, Bernhard (eds.), Philosophy of Logic and Mathematics: Proceedings
+of the 41st International Wittgenstein Symposium. De Gruyter, Berlin, Munich, Boston, 2019, pp. 215–248](https://www.degruyterbrill.com/document/doi/10.1515/9783110657883-014/html?srsltid=AfmBOorJpjKn8QBJxlwj4txWtQE2Q0doE7Wmdtl_ZyhNcTvUmIx6_a-Q).
+2. 2023, (with Benjamin Siskind and Stewart Shapiro), ["A note on choice principles in second-order logic", The Review
+of Symbolic Logic, 16(2), pp. 339-350](https://www.cambridge.org/core/journals/review-of-symbolic-logic/article/note-on-choice-principles-in-secondorder-logic/1BE5AB5877E680848B7A1AE4A58DBAA4).
+3. 2024, (with Guillaume Massas), ["Totality, Regularity and Cardinality in Probability Theory", Philosophy of
+Science, 91, 721–740](https://www.cambridge.org/core/journals/philosophy-of-science/article/totality-regularity-and-cardinality-in-probability-theory/1FABB0AD8522D2634335CC584D58BF56).
+
+([poster](Mancosu.png))
+
+   <br>
 
 [October 04, 2025] (eng, [link](https://youtu.be/JNPU41FBSAE?si=4NFm2lHinEfwHT56) / [slides](https://drive.google.com/file/d/19aYGwkx5zSmi48L-bQcCl67Kx8z0zxEU/view?usp=sharing)) 
 
