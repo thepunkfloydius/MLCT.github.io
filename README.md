@@ -21,7 +21,7 @@ The seminar has two types of activities:
 
 **UPCOMING EVENTS**
 
-[November 01, 2025 (11:00AM EDT / 6:00PM МSC)] (eng, online) Registration link
+[November 01, 2025 (11:00AM EDT / 6:00PM МSC)] (eng, online) [Registration link](https://llfp.hse.ru/en/announcements/1094081809.html)
 
 [**John L. Bell**](https://publish.uwo.ca/~jbell/) (Emeritus Professor, FRSC Department of Philosophy Western University London, Ontario Canada)
 
@@ -39,7 +39,7 @@ Lawvere has suggested calling Cantor’s cardinal numbers _abstract sets_. An ab
 
 In my talk I will describe how category theory provides the natural framework for understanding abstract sets, conceived of as static or as undergoing change.
 
-(poster)
+([poster](Bell.png))
 
    <br>
 
