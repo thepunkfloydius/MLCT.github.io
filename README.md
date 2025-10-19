@@ -45,7 +45,7 @@ In my talk I will describe how category theory provides the natural framework fo
 
   **RECENT TALKS**
 
-[October 18, 2025] (eng, link / [slides](https://drive.google.com/file/d/1KqJVitxq0tIqx53ZCj4EoKcYOWlw-J2e/view?usp=sharing))
+[October 18, 2025] (eng, [link](https://www.youtube.com/watch?v=ECwdmkPYOWU) / [slides](https://drive.google.com/file/d/1KqJVitxq0tIqx53ZCj4EoKcYOWlw-J2e/view?usp=sharing))
 
 [**Paolo Mancosu**](https://philosophy.berkeley.edu/mancosu/) (Willis S. and Marion Slusser Professor of Philosophy, Department of Philosophy, UC Berkeley)
 
