@@ -39,7 +39,7 @@ Lawvere has suggested calling Cantor’s cardinal numbers _abstract sets_. An ab
 
 In my talk I will describe how category theory provides the natural framework for understanding abstract sets, conceived of as static or as undergoing change.
 
-([poster](Bell.png))
+([poster]())
 
    <br>
 
