@@ -21,7 +21,11 @@ The seminar has two types of activities:
 
 **UPCOMING EVENTS**
 
-[November 01, 2025 (11:00AM EDT / 6:00PM МSC)] (eng, online) [Registration link](https://llfp.hse.ru/en/announcements/1094081809.html)
+TBA
+
+  **RECENT TALKS**
+
+[November 01, 2025] (eng, link / text)
 
 [**John L. Bell**](https://publish.uwo.ca/~jbell/) (Emeritus Professor, FRSC Department of Philosophy Western University London, Ontario Canada)
 
@@ -42,9 +46,7 @@ In my talk I will describe how category theory provides the natural framework fo
 ([poster](Bell.png))
 
    <br>
-
-  **RECENT TALKS**
-
+   
 [October 18, 2025] (eng, [link](https://www.youtube.com/watch?v=ECwdmkPYOWU) / [slides](https://drive.google.com/file/d/1KqJVitxq0tIqx53ZCj4EoKcYOWlw-J2e/view?usp=sharing))
 
 [**Paolo Mancosu**](https://philosophy.berkeley.edu/mancosu/) (Willis S. and Marion Slusser Professor of Philosophy, Department of Philosophy, UC Berkeley)
