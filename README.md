@@ -25,7 +25,7 @@ TBA
 
   **RECENT TALKS**
 
-[November 01, 2025] (eng, [link](https://drive.google.com/file/d/1pRpCoQ88A0J2HJtHtKh9h-FVGz5CKBNS/view?usp=sharing) / [text](https://drive.google.com/file/d/13rEfMFSvNXFY2ahqwZ6D37fIeWdcdSXb/view?usp=sharing))
+[November 01, 2025] (eng, [link](https://www.youtube.com/watch?v=_lW2LCGrt2U) / [text](https://drive.google.com/file/d/13rEfMFSvNXFY2ahqwZ6D37fIeWdcdSXb/view?usp=sharing))
 
 [**John L. Bell**](https://publish.uwo.ca/~jbell/) (Emeritus Professor, FRSC Department of Philosophy Western University London, Ontario Canada)
 
