@@ -1,21 +1,19 @@
 # Seminar on Mathematical Logic and Category Theory
-  
-The research and educational seminar "Mathematical Logic and Category Theory" (at the [International Laboratory for Logic, Linguistics and Formal Philosophy](https://llfp.hse.ru/en/), [HSE University](https://www.hse.ru/en/)) is aimed at the joint study of the fundamentals and current results in the fields of categorical logiс, foundations of mathematics, type, proof, and model theories. Special attention is given to the study of problems and approaches at the intersection of mathematics, formal philosophy, logic, and theoretical computer science. The seminars are intended to introduce the basic concepts and topics of mathematical disciplines directly related to _HoTT, MLTT, category theory, modal logic, and formal arithmetic_. Participation does not presuppose special knowledge in the above-mentioned fields. The seminar is conducted in Russian and English.
+The independent online seminar "Mathematical Logic and Category Theory" is a research and educational seminar aimed at jointly studying the fundamentals and current results in the fields of categorical logic, the foundations of mathematics, types, proofs and model theories. Particular focus is given to problems and approaches at the intersection of mathematics, formal philosophy, logic, and theoretical computer science. The seminars are intended to introduce the basic concepts and topics of mathematical disciplines directly related to _HoTT, MLTT, category theory, modal logic, and formal arithmetic_. No special knowledge of the above fields is required to participate. The seminar is conducted in English and Russian.
 
 The seminar has two types of activities:
 1. Organization of plenary talks by invited speakers;
 2. Seminar-style classes on a given topic.
 
- Seminar organizers: Ramazan Ayupov (HSE University) & Arnold Grigorian (MIPT, LMU München). 
+ Seminar organizers: Ramazan Ayupov (IL LLFP) & Arnold Grigorian (LMU München). 
 
  If you would like to become a participant in the seminar, give a talk, or simply receive announcements, please write to one of the following emails:
  - arnold.g1020 [at] gmail [dot] com
  - ramazan.i.ayupov [at] gmail [dot] com
  
+Since December 2025, the seminar has not been affiliated with any institution.
 
    [The seminar's chat on Telegram](https://t.me/+nxHPt0oVrXwyMGRi) (rus).
-
-   Physical address: 105066, Moscow, Staraya Basmannaya, 21/4, room A-117.
 
    <br>
 
