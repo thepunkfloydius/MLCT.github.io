@@ -33,6 +33,8 @@ In this talk I will describe a view of mathematical reality to the eﬀect that:
 
 The view is made possible by an important technical result in the model-theory of paraconsistent logic: the Collapsing Lemma.
 
+ <br>
+
   **RECENT TALKS**
 
 [November 01, 2025] (eng, [link](https://www.youtube.com/watch?v=_lW2LCGrt2U) / [text](https://drive.google.com/file/d/13rEfMFSvNXFY2ahqwZ6D37fIeWdcdSXb/view?usp=sharing))
