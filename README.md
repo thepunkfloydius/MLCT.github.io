@@ -26,9 +26,11 @@ Since December 2025, the seminar has not been affiliated with any institution.
 --- The Mathematical Infinite as an Illusion
 
 In this talk I will describe a view of mathematical reality to the eﬀect that:
+
 - there is only a finite number of things
 - that there is an infinite number of things is, in a sense to be made clear, an illusion
 - paradox is an integral aspect of the illusion
+
 The view is made possible by an important technical result in the model-theory of paraconsistent logic: the Collapsing Lemma.
 
   **RECENT TALKS**
