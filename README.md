@@ -19,7 +19,7 @@ Since December 2025, the seminar has not been affiliated with any institution.
 
 **UPCOMING EVENTS**
 
-[March 06, 2026 | 10:30AM EST / 6:30 PM MSC] (eng) Registration Link
+[March 06, 2026 10:30AM EST / 6:30 PM MSC] (eng) Registration Link
 
 [**Graham Priest**](https://grahampriest.net/) (Distinguished Professor of the Graduate Center of the City University of New York)
 
