@@ -5,70 +5,103 @@
   <meta name="viewport" content="width=device-width,initial-scale=1" />
   <title>Seminar on Mathematical Logic and Category Theory</title>
   <style>
-    :root { color-scheme: dark; }
-    body {
-      margin: 0;
-      font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;
-      line-height: 1.65;
-      background: #0d1117;
-      color: #c9d1d9;
+    /* Light, academic, readable */
+    body{
+      margin:0;
+      font-family: Georgia, "Times New Roman", Times, serif;
+      line-height:1.7;
+      background:#ffffff;
+      color:#111;
     }
-    .wrap {
-      max-width: 980px;
-      margin: 52px auto;
+    .wrap{
+      max-width: 920px;
+      margin: 64px auto;
       padding: 0 22px;
     }
-    h1, h2 {
-      line-height: 1.2;
-      color: #e6edf3;
+    h1,h2,h3{
+      line-height:1.25;
+      color:#000;
+      margin: 0 0 12px 0;
     }
-    h1 {
-      font-size: 2.35rem;
-      margin: 0 0 14px 0;
+    h1{
+      font-size: 2.25rem;
       padding-bottom: 14px;
-      border-bottom: 1px solid rgba(255,255,255,.14);
+      border-bottom: 1px solid #d0d0d0;
+      margin-bottom: 18px;
     }
-    h2 {
-      font-size: 1.3rem;
-      margin: 34px 0 10px 0;
+    h2{
+      font-size: 1.15rem;
+      margin-top: 44px;
       text-transform: uppercase;
       letter-spacing: .06em;
     }
-    p, li {
+    p, li{
       text-align: justify;          /* выравнивание по обоим краям */
       text-justify: inter-word;
     }
-    a { color: #58a6ff; text-decoration: none; }
-    a:hover { text-decoration: underline; }
-    ul, ol { padding-left: 22px; }
-    hr {
-      border: none;
-      border-top: 1px solid rgba(255,255,255,.14);
-      margin: 22px 0;
+    a{
+      color:#0033cc;
+      text-decoration:none;
     }
-    .meta { margin: 12px 0 0; }
-    .indent { margin-left: 10px; }
-    .event {
-      margin: 14px 0 22px;
-      padding: 14px 14px;
-      border: 1px solid rgba(255,255,255,.12);
-      border-radius: 10px;
-      background: rgba(255,255,255,.03);
+    a:hover{ text-decoration:underline; }
+    ul,ol{ padding-left: 22px; }
+    hr{
+      border:none;
+      border-top:1px solid #d0d0d0;
+      margin: 28px 0;
     }
-    .event .date { font-weight: 600; }
-    .event .speaker { margin: 8px 0 0; }
-    .event .title { margin: 8px 0 0; }
-    .event .title em { font-style: normal; }
-    .event .links { margin: 6px 0 0; }
-    .poster { margin: 8px 0 0; }
-    .poster img {
-      max-width: 100%;
-      height: auto;
-      border-radius: 10px;
-      border: 1px solid rgba(255,255,255,.12);
-      display: block;
+
+    /* Blocks */
+    .meta{ margin: 14px 0; }
+    .section-note{ margin: 10px 0 18px; color:#333; }
+
+    .event{
+      margin: 18px 0 28px;
+      padding: 16px 16px;
+      border: 1px solid #e0e0e0;
+      border-radius: 12px;
+      background: #fafafa;
     }
-    .small { opacity: .9; }
+    .event .date{
+      font-weight: 700;
+      margin-bottom: 6px;
+    }
+    .event .speaker{
+      margin: 6px 0 0;
+    }
+    .event .title{
+      margin: 10px 0 0;
+      font-style: italic;
+    }
+    .event .links{
+      margin: 8px 0 0;
+    }
+    .event .links a{
+      margin-right: 10px;
+      white-space: nowrap;
+    }
+    .poster-link{
+      margin: 8px 0 0;
+    }
+    .poster-link a{
+      font-weight: 600;
+    }
+    .small{
+      color:#333;
+      font-weight: 400;
+    }
+
+    /* Quotes / emphasized excerpts */
+    blockquote{
+      margin: 14px 0;
+      padding: 10px 14px;
+      border-left: 3px solid #c8c8c8;
+      background: #ffffff;
+    }
+    blockquote p{ margin: 0; }
+
+    /* Make long URLs wrap nicely */
+    a{ overflow-wrap:anywhere; }
   </style>
 </head>
 
@@ -77,11 +110,12 @@
     <h1>Seminar on Mathematical Logic and Category Theory</h1>
 
     <p>
-      The Mathematical Logic and Category Theory independent online seminar is a research and educational seminar aimed at jointly studying
-      the fundamentals and current results in the fields of categorical logic, the foundations of mathematics, types, proofs and model theories.
+      The Mathematical Logic and Category Theory independent online seminar is a research and educational seminar aimed at jointly studying the
+      fundamentals and current results in the fields of categorical logic, the foundations of mathematics, types, proofs and model theories.
       Particular focus is given to problems and approaches at the intersection of mathematics, formal philosophy, logic, and theoretical computer science.
-      The seminars are intended to introduce the basic concepts and topics of mathematical disciplines directly related to <em>HoTT, MLTT, category theory, modal logic, and formal arithmetic</em>.
-      No special knowledge of the above fields is required to participate. The seminar is conducted in English and Russian.
+      The seminars are intended to introduce the basic concepts and topics of mathematical disciplines directly related to
+      <em>HoTT, MLTT, category theory, modal logic, and formal arithmetic</em>. No special knowledge of the above fields is required to participate.
+      The seminar is conducted in English and Russian.
     </p>
 
     <p>The seminar has two types of activities:</p>
@@ -90,9 +124,7 @@
       <li>Seminar-style classes on a given topic.</li>
     </ol>
 
-    <p class="meta">
-      Seminar organizers: Arnold Grigorian (LMU München) &amp; Ramazan Ayupov.
-    </p>
+    <p class="meta"><strong>Seminar organizers:</strong> Arnold Grigorian (LMU München) &amp; Ramazan Ayupov.</p>
 
     <p class="meta">
       If you would like to become a participant in the seminar, give a talk, or simply receive announcements, please write to one of the following emails:
@@ -102,32 +134,36 @@
       <li>ramazan.i.ayupov [at] gmail [dot] com</li>
     </ul>
 
-    <p class="indent">
-      <a href="https://t.me/+nxHPt0oVrXwyMGRi">The seminar's chat on Telegram</a> (rus).
+    <p class="meta">
+      <a href="https://t.me/+nxHPt0oVrXwyMGRi" target="_blank" rel="noopener noreferrer">The seminar's chat on Telegram</a> (rus).
     </p>
 
     <p class="meta">
       Since December 2025, the seminar has not been affiliated with any institution.
     </p>
 
-    <h2>UPCOMING EVENTS</h2>
+    <h2>Upcoming Events</h2>
 
     <div class="event">
       <div class="date">January 24, 2026 10:00 AM EST / 6:00 PM MSC / 4:00 PM Padova <span class="small">(eng) Registration Link</span></div>
+
       <div class="speaker">
-        <a href="https://www.math.unipd.it/~sambin/about.html"><strong>Giovanni Sambin</strong></a>
+        <a href="https://www.math.unipd.it/~sambin/about.html" target="_blank" rel="noopener noreferrer"><strong>Giovanni Sambin</strong></a>
         (Professor (Full) at University of Padua)
       </div>
+
       <div class="title">— TBA</div>
       <p>TBA</p>
     </div>
 
     <div class="event">
       <div class="date">March 06, 2026 10:30AM EST / 6:30 PM MSC <span class="small">(eng) Registration Link</span></div>
+
       <div class="speaker">
-        <a href="https://grahampriest.net/"><strong>Graham Priest</strong></a>
+        <a href="https://grahampriest.net/" target="_blank" rel="noopener noreferrer"><strong>Graham Priest</strong></a>
         (Distinguished Professor of the Graduate Center of the City University of New York)
       </div>
+
       <div class="title">— The Mathematical Infinite as an Illusion</div>
 
       <p>In this talk I will describe a view of mathematical reality to the eﬀect that:</p>
@@ -136,39 +172,50 @@
         <li>that there is an infinite number of things is, in a sense to be made clear, an illusion</li>
         <li>paradox is an integral aspect of the illusion</li>
       </ul>
+
       <p>
         The view is made possible by an important technical result in the model-theory of paraconsistent logic: the Collapsing Lemma.
       </p>
     </div>
 
-    <h2>RECENT TALKS</h2>
+    <h2>Recent Talks</h2>
 
     <div class="event">
       <div class="date">
-        November 01, 2025 <span class="small">(eng,</span>
-        <a href="https://www.youtube.com/watch?v=_lW2LCGrt2U">link</a>
-        <span class="small"> / </span>
-        <a href="https://drive.google.com/file/d/13rEfMFSvNXFY2ahqwZ6D37fIeWdcdSXb/view?usp=sharing">text</a>
-        <span class="small">)</span>
+        November 01, 2025 <span class="small">(eng)</span>
+      </div>
+
+      <div class="links">
+        <a href="https://www.youtube.com/watch?v=_lW2LCGrt2U" target="_blank" rel="noopener noreferrer">Video</a>
+        <a href="https://drive.google.com/file/d/13rEfMFSvNXFY2ahqwZ6D37fIeWdcdSXb/view?usp=sharing" target="_blank" rel="noopener noreferrer">Text</a>
       </div>
 
       <div class="speaker">
-        <a href="https://publish.uwo.ca/~jbell/"><strong>John L. Bell</strong></a>
+        <a href="https://publish.uwo.ca/~jbell/" target="_blank" rel="noopener noreferrer"><strong>John L. Bell</strong></a>
         (Emeritus Professor, FRSC Department of Philosophy Western University London, Ontario Canada)
       </div>
 
       <div class="title">— Abstract and Variable Sets in Category Theory</div>
 
-      <p>In 1895 Cantor gave a definitive formulation of the concept of set, namely,</p>
-      <p><em>A collection to a whole of definite, well-differentiated objects of our intuition or thought</em>.</p>
+      <p>
+        In 1895 Cantor gave a definitive formulation of the concept of set, namely,
+      </p>
+
+      <blockquote>
+        <p><em>A collection to a whole of definite, well-differentiated objects of our intuition or thought</em>.</p>
+      </blockquote>
 
       <p>
         Let us call such a collection a <em>concrete set</em>. More than a decade earlier, Cantor had introduced the notion of cardinal number by appeal to a process of abstraction:
       </p>
 
-      <p>
-        <em>If we abstract not only from the nature of the elements of a set, and also from the order in which they are given, then there arises in us a definite general concept which I call the cardinal number of the set</em>.
-      </p>
+      <blockquote>
+        <p>
+          <em>
+            If we abstract not only from the nature of the elements of a set, and also from the order in which they are given, then there arises in us a definite general concept which I call the cardinal number of the set
+          </em>.
+        </p>
+      </blockquote>
 
       <p>
         Lawvere has suggested calling Cantor’s cardinal numbers <em>abstract sets</em>. An abstract set may be considered as arising from a concrete set when each element has been purged of all intrinsic qualities aside from the quality which distinguishes that element from all the others. An abstract set is thus an embodiment of pure discreetness.
@@ -178,22 +225,23 @@
         In my talk I will describe how category theory provides the natural framework for understanding abstract sets, conceived of as static or as undergoing change.
       </p>
 
-      <div class="poster">
-        <a href="Bell.png"><img src="Bell.png" alt="Poster: John L. Bell" /></a>
-      </div>
+      <p class="poster-link">
+        <a href="Bell.png" target="_blank" rel="noopener noreferrer">Poster</a>
+      </p>
     </div>
 
     <div class="event">
       <div class="date">
-        October 18, 2025 <span class="small">(eng,</span>
-        <a href="https://www.youtube.com/watch?v=ECwdmkPYOWU">link</a>
-        <span class="small"> / </span>
-        <a href="https://drive.google.com/file/d/1KqJVitxq0tIqx53ZCj4EoKcYOWlw-J2e/view?usp=sharing">slides</a>
-        <span class="small">)</span>
+        October 18, 2025 <span class="small">(eng)</span>
+      </div>
+
+      <div class="links">
+        <a href="https://www.youtube.com/watch?v=ECwdmkPYOWU" target="_blank" rel="noopener noreferrer">Video</a>
+        <a href="https://drive.google.com/file/d/1KqJVitxq0tIqx53ZCj4EoKcYOWlw-J2e/view?usp=sharing" target="_blank" rel="noopener noreferrer">Slides</a>
       </div>
 
       <div class="speaker">
-        <a href="https://philosophy.berkeley.edu/mancosu/"><strong>Paolo Mancosu</strong></a>
+        <a href="https://philosophy.berkeley.edu/mancosu/" target="_blank" rel="noopener noreferrer"><strong>Paolo Mancosu</strong></a>
         (Willis S. and Marion Slusser Professor of Philosophy, Department of Philosophy, UC Berkeley)
       </div>
 
@@ -210,7 +258,8 @@
       <ol>
         <li>
           2019, (with Benjamin Siskind),
-          <a href="https://www.degruyterbrill.com/document/doi/10.1515/9783110657883-014/html?srsltid=AfmBOorJpjKn8QBJxlwj4txWtQE2Q0doE7Wmdtl_ZyhNcTvUmIx6_a-Q">
+          <a href="https://www.degruyterbrill.com/document/doi/10.1515/9783110657883-014/html?srsltid=AfmBOorJpjKn8QBJxlwj4txWtQE2Q0doE7Wmdtl_ZyhNcTvUmIx6_a-Q"
+             target="_blank" rel="noopener noreferrer">
             “Neologicist Foundations: Inconsistent abstraction principles and part-whole”
           </a>,
           in Mras, Gabriele M.; Weingartner, Paul; Ritter, Bernhard (eds.), <em>Philosophy of Logic and Mathematics: Proceedings of the 41st International Wittgenstein Symposium</em>.
@@ -218,36 +267,39 @@
         </li>
         <li>
           2023, (with Benjamin Siskind and Stewart Shapiro),
-          <a href="https://www.cambridge.org/core/journals/review-of-symbolic-logic/article/note-on-choice-principles-in-secondorder-logic/1BE5AB5877E680848B7A1AE4A58DBAA4">
+          <a href="https://www.cambridge.org/core/journals/review-of-symbolic-logic/article/note-on-choice-principles-in-secondorder-logic/1BE5AB5877E680848B7A1AE4A58DBAA4"
+             target="_blank" rel="noopener noreferrer">
             “A note on choice principles in second-order logic”
           </a>,
           <em>The Review of Symbolic Logic</em>, 16(2), pp. 339-350.
         </li>
         <li>
           2024, (with Guillaume Massas),
-          <a href="https://www.cambridge.org/core/journals/philosophy-of-science/article/totality-regularity-and-cardinality-in-probability-theory/1FABB0AD8522D2634335CC584D58BF56">
+          <a href="https://www.cambridge.org/core/journals/philosophy-of-science/article/totality-regularity-and-cardinality-in-probability-theory/1FABB0AD8522D2634335CC584D58BF56"
+             target="_blank" rel="noopener noreferrer">
             “Totality, Regularity and Cardinality in Probability Theory”
           </a>,
           <em>Philosophy of Science</em>, 91, 721–740.
         </li>
       </ol>
 
-      <div class="poster">
-        <a href="Mancosu.png"><img src="Mancosu.png" alt="Poster: Paolo Mancosu" /></a>
-      </div>
+      <p class="poster-link">
+        <a href="Mancosu.png" target="_blank" rel="noopener noreferrer">Poster</a>
+      </p>
     </div>
 
     <div class="event">
       <div class="date">
-        October 04, 2025 <span class="small">(eng,</span>
-        <a href="https://youtu.be/JNPU41FBSAE?si=4NFm2lHinEfwHT56">link</a>
-        <span class="small"> / </span>
-        <a href="https://drive.google.com/file/d/19aYGwkx5zSmi48L-bQcCl67Kx8z0zxEU/view?usp=sharing">slides</a>
-        <span class="small">)</span>
+        October 04, 2025 <span class="small">(eng)</span>
+      </div>
+
+      <div class="links">
+        <a href="https://youtu.be/JNPU41FBSAE?si=4NFm2lHinEfwHT56" target="_blank" rel="noopener noreferrer">Video</a>
+        <a href="https://drive.google.com/file/d/19aYGwkx5zSmi48L-bQcCl67Kx8z0zxEU/view?usp=sharing" target="_blank" rel="noopener noreferrer">Slides</a>
       </div>
 
       <div class="speaker">
-        <a href="https://www.cs.cornell.edu/home/halpern/"><strong>Joseph Y. Halpern</strong></a>
+        <a href="https://www.cs.cornell.edu/home/halpern/" target="_blank" rel="noopener noreferrer"><strong>Joseph Y. Halpern</strong></a>
         (Joseph C. Ford Professor in the Computer Science Department at Cornell Univeesity)
       </div>
 
@@ -266,22 +318,23 @@
         I survey the last 15 years of work here, including joint work with Judea Pearl, Hana Chockler, and Chris Hitchcock. The talk will be completely self-contained.
       </p>
 
-      <div class="poster">
-        <a href="Halpern.png"><img src="Halpern.png" alt="Poster: Joseph Y. Halpern" /></a>
-      </div>
+      <p class="poster-link">
+        <a href="Halpern.png" target="_blank" rel="noopener noreferrer">Poster</a>
+      </p>
     </div>
 
     <div class="event">
       <div class="date">
-        September 13, 2025 <span class="small">(rus,</span>
-        <a href="https://www.youtube.com/watch?v=VI1TzoN_DVs">link</a>
-        <span class="small"> / </span>
-        <a href="https://drive.google.com/file/d/1zwGujcqYpOlhljM0_OpUbsim5Co4SiCw/view?usp=sharing">slides</a>
-        <span class="small">)</span>
+        September 13, 2025 <span class="small">(rus)</span>
+      </div>
+
+      <div class="links">
+        <a href="https://www.youtube.com/watch?v=VI1TzoN_DVs" target="_blank" rel="noopener noreferrer">Video</a>
+        <a href="https://drive.google.com/file/d/1zwGujcqYpOlhljM0_OpUbsim5Co4SiCw/view?usp=sharing" target="_blank" rel="noopener noreferrer">Slides</a>
       </div>
 
       <div class="speaker">
-        <a href="https://sartemov.ws.gc.cuny.edu/"><strong>Sergei N. Artemov</strong></a>
+        <a href="https://sartemov.ws.gc.cuny.edu/" target="_blank" rel="noopener noreferrer"><strong>Sergei N. Artemov</strong></a>
         (Distinguished Professor of the Graduate Center of the City University of New York)
       </div>
 
@@ -301,29 +354,35 @@
       <ol>
         <li>
           Sergei Artemov,
-          <a href="https://doi.org/10.48550/arXiv.2508.20346">Consistency formula is strictly stronger in PA than PA-consistency</a>.
+          <a href="https://doi.org/10.48550/arXiv.2508.20346" target="_blank" rel="noopener noreferrer">
+            Consistency formula is strictly stronger in PA than PA-consistency
+          </a>.
         </li>
         <li>
           Sergei Artemov,
-          <a href="https://doi.org/10.1093/logcom/exae034">Serial properties, selector proofs and the provability of consistency</a>,
+          <a href="https://doi.org/10.1093/logcom/exae034" target="_blank" rel="noopener noreferrer">
+            Serial properties, selector proofs and the provability of consistency
+          </a>,
           <em>Journal of Logic and Computation</em>, Volume 35, Issue 3, April 2025, exae034.
         </li>
       </ol>
 
-      <div class="poster">
-        <a href="Artemov.png"><img src="Artemov.png" alt="Poster: Sergei N. Artemov" /></a>
-      </div>
+      <p class="poster-link">
+        <a href="Artemov.png" target="_blank" rel="noopener noreferrer">Poster</a>
+      </p>
     </div>
 
     <div class="event">
       <div class="date">
-        February 8, 2025 <span class="small">(rus,</span>
-        <a href="https://www.youtube.com/watch?v=3hWWRcXjXf0">link</a>
-        <span class="small">)</span>
+        February 8, 2025 <span class="small">(rus)</span>
+      </div>
+
+      <div class="links">
+        <a href="https://www.youtube.com/watch?v=3hWWRcXjXf0" target="_blank" rel="noopener noreferrer">Video</a>
       </div>
 
       <div class="speaker">
-        <a href="https://philomatica.org/"><strong>Andrei Rodin</strong></a>
+        <a href="https://philomatica.org/" target="_blank" rel="noopener noreferrer"><strong>Andrei Rodin</strong></a>
         (Archives Henri-Poincaré, university of Lorraine, France)
       </div>
 
@@ -336,19 +395,21 @@
       </p>
 
       <p>
-        This presentation is based on the article <a href="https://arxiv.org/abs/2409.02935">arXiv:2409.02935</a>.
+        This presentation is based on the article <a href="https://arxiv.org/abs/2409.02935" target="_blank" rel="noopener noreferrer">arXiv:2409.02935</a>.
       </p>
     </div>
 
     <div class="event">
       <div class="date">
-        January 31, 2025 <span class="small">(eng,</span>
-        <a href="https://drive.google.com/file/d/1XsuwlvzPAewGceMy_vdcvIhCckp5A9K0/view?usp=drive_link">link</a>
-        <span class="small">)</span>
+        January 31, 2025 <span class="small">(eng)</span>
+      </div>
+
+      <div class="links">
+        <a href="https://drive.google.com/file/d/1XsuwlvzPAewGceMy_vdcvIhCckp5A9K0/view?usp=drive_link" target="_blank" rel="noopener noreferrer">Link</a>
       </div>
 
       <div class="speaker">
-        <a href="http://www.sci.brooklyn.cuny.edu/~noson/"><strong>Noson S. Yanofsky</strong></a>
+        <a href="http://www.sci.brooklyn.cuny.edu/~noson/" target="_blank" rel="noopener noreferrer"><strong>Noson S. Yanofsky</strong></a>
         (Professor of Computer and Information Science at Brooklyn College and The Graduate Center, CUNY)
       </div>
 
@@ -371,9 +432,9 @@
         This presentation will elucidate this theorem and demonstrate its various instances.
       </p>
 
-      <div class="poster">
-        <a href="Yanofsky.png"><img src="Yanofsky.png" alt="Poster: Noson S. Yanofsky" /></a>
-      </div>
+      <p class="poster-link">
+        <a href="Yanofsky.png" target="_blank" rel="noopener noreferrer">Poster</a>
+      </p>
     </div>
 
   </main>
