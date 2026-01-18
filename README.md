@@ -5,7 +5,7 @@ The seminar has two types of activities:
 1. Organization of plenary talks by invited speakers;
 2. Seminar-style classes on a given topic.
 
- Seminar organizers: Ramazan Ayupov (IL LLFP) & Arnold Grigorian (LMU München). 
+ Seminar organizers: Ramazan Ayupov & Arnold Grigorian (LMU München). 
 
  If you would like to become a participant in the seminar, give a talk, or simply receive announcements, please write to one of the following emails:
  - arnold.g1020 [at] gmail [dot] com
@@ -18,6 +18,16 @@ Since December 2025, the seminar has not been affiliated with any institution.
    <br>
 
 **UPCOMING EVENTS**
+
+[January 24, 2026 10:00 AM EST / 6:00 PM MSC / 4:00 PM Padova] (eng) Registration Link
+
+[**Giovanni Sambin**](https://www.math.unipd.it/~sambin/about.html) (Professor (Full) at University of Padua)
+
+--- TBA
+
+TBA
+
+ <br>
 
 [March 06, 2026 10:30AM EST / 6:30 PM MSC] (eng) Registration Link
 
