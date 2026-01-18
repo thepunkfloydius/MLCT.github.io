@@ -5,18 +5,77 @@
   <meta name="viewport" content="width=device-width,initial-scale=1" />
   <title>Seminar on Mathematical Logic and Category Theory</title>
   <style>
-    body { margin: 0; font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif; line-height: 1.6; }
-    .wrap { max-width: 900px; margin: 48px auto; padding: 0 20px; }
-    h1 { font-size: 2.2rem; margin: 0 0 16px; }
-    h2 { margin-top: 40px; }
-    a { text-decoration: none; }
+    :root { color-scheme: dark; }
+    body {
+      margin: 0;
+      font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;
+      line-height: 1.65;
+      background: #0d1117;
+      color: #c9d1d9;
+    }
+    .wrap {
+      max-width: 980px;
+      margin: 52px auto;
+      padding: 0 22px;
+    }
+    h1, h2 {
+      line-height: 1.2;
+      color: #e6edf3;
+    }
+    h1 {
+      font-size: 2.35rem;
+      margin: 0 0 14px 0;
+      padding-bottom: 14px;
+      border-bottom: 1px solid rgba(255,255,255,.14);
+    }
+    h2 {
+      font-size: 1.3rem;
+      margin: 34px 0 10px 0;
+      text-transform: uppercase;
+      letter-spacing: .06em;
+    }
+    p, li {
+      text-align: justify;          /* выравнивание по обоим краям */
+      text-justify: inter-word;
+    }
+    a { color: #58a6ff; text-decoration: none; }
     a:hover { text-decoration: underline; }
-    hr { margin: 28px 0; opacity: .2; }
+    ul, ol { padding-left: 22px; }
+    hr {
+      border: none;
+      border-top: 1px solid rgba(255,255,255,.14);
+      margin: 22px 0;
+    }
+    .meta { margin: 12px 0 0; }
+    .indent { margin-left: 10px; }
+    .event {
+      margin: 14px 0 22px;
+      padding: 14px 14px;
+      border: 1px solid rgba(255,255,255,.12);
+      border-radius: 10px;
+      background: rgba(255,255,255,.03);
+    }
+    .event .date { font-weight: 600; }
+    .event .speaker { margin: 8px 0 0; }
+    .event .title { margin: 8px 0 0; }
+    .event .title em { font-style: normal; }
+    .event .links { margin: 6px 0 0; }
+    .poster { margin: 8px 0 0; }
+    .poster img {
+      max-width: 100%;
+      height: auto;
+      border-radius: 10px;
+      border: 1px solid rgba(255,255,255,.12);
+      display: block;
+    }
+    .small { opacity: .9; }
   </style>
 </head>
+
 <body>
-  <div class="wrap">
+  <main class="wrap">
     <h1>Seminar on Mathematical Logic and Category Theory</h1>
+
     <p>
       The Mathematical Logic and Category Theory independent online seminar is a research and educational seminar aimed at jointly studying
       the fundamentals and current results in the fields of categorical logic, the foundations of mathematics, types, proofs and model theories.
@@ -31,22 +90,292 @@
       <li>Seminar-style classes on a given topic.</li>
     </ol>
 
-    <p><strong>Seminar organizers:</strong> Arnold Grigorian (LMU München) &amp; Ramazan Ayupov.</p>
-
-    <p>
-      If you would like to become a participant in the seminar, give a talk, or simply receive announcements, please write to:
-      <br/>arnold.g1020 [at] gmail [dot] com
-      <br/>ramazan.i.ayupov [at] gmail [dot] com
+    <p class="meta">
+      Seminar organizers: Arnold Grigorian (LMU München) &amp; Ramazan Ayupov.
     </p>
 
-    <p><a href="https://t.me/+nxHPt0oVrXwyMGRi">The seminar's chat on Telegram</a> (rus).</p>
+    <p class="meta">
+      If you would like to become a participant in the seminar, give a talk, or simply receive announcements, please write to one of the following emails:
+    </p>
+    <ul>
+      <li>arnold.g1020 [at] gmail [dot] com</li>
+      <li>ramazan.i.ayupov [at] gmail [dot] com</li>
+    </ul>
 
-    <p>Since December 2025, the seminar has not been affiliated with any institution.</p>
+    <p class="indent">
+      <a href="https://t.me/+nxHPt0oVrXwyMGRi">The seminar's chat on Telegram</a> (rus).
+    </p>
 
-    <hr/>
+    <p class="meta">
+      Since December 2025, the seminar has not been affiliated with any institution.
+    </p>
 
     <h2>UPCOMING EVENTS</h2>
-    <!-- дальше вставишь свои события -->
-  </div>
+
+    <div class="event">
+      <div class="date">January 24, 2026 10:00 AM EST / 6:00 PM MSC / 4:00 PM Padova <span class="small">(eng) Registration Link</span></div>
+      <div class="speaker">
+        <a href="https://www.math.unipd.it/~sambin/about.html"><strong>Giovanni Sambin</strong></a>
+        (Professor (Full) at University of Padua)
+      </div>
+      <div class="title">— TBA</div>
+      <p>TBA</p>
+    </div>
+
+    <div class="event">
+      <div class="date">March 06, 2026 10:30AM EST / 6:30 PM MSC <span class="small">(eng) Registration Link</span></div>
+      <div class="speaker">
+        <a href="https://grahampriest.net/"><strong>Graham Priest</strong></a>
+        (Distinguished Professor of the Graduate Center of the City University of New York)
+      </div>
+      <div class="title">— The Mathematical Infinite as an Illusion</div>
+
+      <p>In this talk I will describe a view of mathematical reality to the eﬀect that:</p>
+      <ul>
+        <li>there is only a finite number of things</li>
+        <li>that there is an infinite number of things is, in a sense to be made clear, an illusion</li>
+        <li>paradox is an integral aspect of the illusion</li>
+      </ul>
+      <p>
+        The view is made possible by an important technical result in the model-theory of paraconsistent logic: the Collapsing Lemma.
+      </p>
+    </div>
+
+    <h2>RECENT TALKS</h2>
+
+    <div class="event">
+      <div class="date">
+        November 01, 2025 <span class="small">(eng,</span>
+        <a href="https://www.youtube.com/watch?v=_lW2LCGrt2U">link</a>
+        <span class="small"> / </span>
+        <a href="https://drive.google.com/file/d/13rEfMFSvNXFY2ahqwZ6D37fIeWdcdSXb/view?usp=sharing">text</a>
+        <span class="small">)</span>
+      </div>
+
+      <div class="speaker">
+        <a href="https://publish.uwo.ca/~jbell/"><strong>John L. Bell</strong></a>
+        (Emeritus Professor, FRSC Department of Philosophy Western University London, Ontario Canada)
+      </div>
+
+      <div class="title">— Abstract and Variable Sets in Category Theory</div>
+
+      <p>In 1895 Cantor gave a definitive formulation of the concept of set, namely,</p>
+      <p><em>A collection to a whole of definite, well-differentiated objects of our intuition or thought</em>.</p>
+
+      <p>
+        Let us call such a collection a <em>concrete set</em>. More than a decade earlier, Cantor had introduced the notion of cardinal number by appeal to a process of abstraction:
+      </p>
+
+      <p>
+        <em>If we abstract not only from the nature of the elements of a set, and also from the order in which they are given, then there arises in us a definite general concept which I call the cardinal number of the set</em>.
+      </p>
+
+      <p>
+        Lawvere has suggested calling Cantor’s cardinal numbers <em>abstract sets</em>. An abstract set may be considered as arising from a concrete set when each element has been purged of all intrinsic qualities aside from the quality which distinguishes that element from all the others. An abstract set is thus an embodiment of pure discreetness.
+      </p>
+
+      <p>
+        In my talk I will describe how category theory provides the natural framework for understanding abstract sets, conceived of as static or as undergoing change.
+      </p>
+
+      <div class="poster">
+        <a href="Bell.png"><img src="Bell.png" alt="Poster: John L. Bell" /></a>
+      </div>
+    </div>
+
+    <div class="event">
+      <div class="date">
+        October 18, 2025 <span class="small">(eng,</span>
+        <a href="https://www.youtube.com/watch?v=ECwdmkPYOWU">link</a>
+        <span class="small"> / </span>
+        <a href="https://drive.google.com/file/d/1KqJVitxq0tIqx53ZCj4EoKcYOWlw-J2e/view?usp=sharing">slides</a>
+        <span class="small">)</span>
+      </div>
+
+      <div class="speaker">
+        <a href="https://philosophy.berkeley.edu/mancosu/"><strong>Paolo Mancosu</strong></a>
+        (Willis S. and Marion Slusser Professor of Philosophy, Department of Philosophy, UC Berkeley)
+      </div>
+
+      <div class="title">— Three applications of Zermelo's theorem on part-whole</div>
+
+      <p>
+        The aim of the presentation is to give a general overview of the application of a result by Ernst
+        Zermelo to three very different areas of investigation: abstraction principles in neologicism, the axiom of
+        choice in second-order logic, and regularity properties in probability theory. The talk is based on three
+        articles that have recently appeared (see bibliography).
+      </p>
+
+      <p><strong>Bibliography:</strong></p>
+      <ol>
+        <li>
+          2019, (with Benjamin Siskind),
+          <a href="https://www.degruyterbrill.com/document/doi/10.1515/9783110657883-014/html?srsltid=AfmBOorJpjKn8QBJxlwj4txWtQE2Q0doE7Wmdtl_ZyhNcTvUmIx6_a-Q">
+            “Neologicist Foundations: Inconsistent abstraction principles and part-whole”
+          </a>,
+          in Mras, Gabriele M.; Weingartner, Paul; Ritter, Bernhard (eds.), <em>Philosophy of Logic and Mathematics: Proceedings of the 41st International Wittgenstein Symposium</em>.
+          De Gruyter, Berlin, Munich, Boston, 2019, pp. 215–248.
+        </li>
+        <li>
+          2023, (with Benjamin Siskind and Stewart Shapiro),
+          <a href="https://www.cambridge.org/core/journals/review-of-symbolic-logic/article/note-on-choice-principles-in-secondorder-logic/1BE5AB5877E680848B7A1AE4A58DBAA4">
+            “A note on choice principles in second-order logic”
+          </a>,
+          <em>The Review of Symbolic Logic</em>, 16(2), pp. 339-350.
+        </li>
+        <li>
+          2024, (with Guillaume Massas),
+          <a href="https://www.cambridge.org/core/journals/philosophy-of-science/article/totality-regularity-and-cardinality-in-probability-theory/1FABB0AD8522D2634335CC584D58BF56">
+            “Totality, Regularity and Cardinality in Probability Theory”
+          </a>,
+          <em>Philosophy of Science</em>, 91, 721–740.
+        </li>
+      </ol>
+
+      <div class="poster">
+        <a href="Mancosu.png"><img src="Mancosu.png" alt="Poster: Paolo Mancosu" /></a>
+      </div>
+    </div>
+
+    <div class="event">
+      <div class="date">
+        October 04, 2025 <span class="small">(eng,</span>
+        <a href="https://youtu.be/JNPU41FBSAE?si=4NFm2lHinEfwHT56">link</a>
+        <span class="small"> / </span>
+        <a href="https://drive.google.com/file/d/19aYGwkx5zSmi48L-bQcCl67Kx8z0zxEU/view?usp=sharing">slides</a>
+        <span class="small">)</span>
+      </div>
+
+      <div class="speaker">
+        <a href="https://www.cs.cornell.edu/home/halpern/"><strong>Joseph Y. Halpern</strong></a>
+        (Joseph C. Ford Professor in the Computer Science Department at Cornell Univeesity)
+      </div>
+
+      <div class="title">— Actual Causality: A Survey</div>
+
+      <p>
+        What does it mean that an event C "actually caused" event E? The problem of defining actual causation goes beyond mere philosophical speculation.
+      </p>
+
+      <p>
+        For example, in many legal arguments, it is precisely what needs to be established in order to determine responsibility.
+        (What exactly was the actual cause of the car accident or the medical problem?) The philosophy literature has been struggling with the problem of defining causality since the days of Hume, in the 1700s.
+        Many of the definitions have been couched in terms of counterfactuals. (C is a cause of E if, had C not happened, then E would not have happened.)
+        In 2001, Judea Pearl and I introduced a new definition of actual cause, using Pearl's notion of structural equations to model counterfactuals.
+        The definition has been revised twice since then, extended to deal with notions like "responsibility" and "blame", and applied in databases and program verification.
+        I survey the last 15 years of work here, including joint work with Judea Pearl, Hana Chockler, and Chris Hitchcock. The talk will be completely self-contained.
+      </p>
+
+      <div class="poster">
+        <a href="Halpern.png"><img src="Halpern.png" alt="Poster: Joseph Y. Halpern" /></a>
+      </div>
+    </div>
+
+    <div class="event">
+      <div class="date">
+        September 13, 2025 <span class="small">(rus,</span>
+        <a href="https://www.youtube.com/watch?v=VI1TzoN_DVs">link</a>
+        <span class="small"> / </span>
+        <a href="https://drive.google.com/file/d/1zwGujcqYpOlhljM0_OpUbsim5Co4SiCw/view?usp=sharing">slides</a>
+        <span class="small">)</span>
+      </div>
+
+      <div class="speaker">
+        <a href="https://sartemov.ws.gc.cuny.edu/"><strong>Sergei N. Artemov</strong></a>
+        (Distinguished Professor of the Graduate Center of the City University of New York)
+      </div>
+
+      <div class="title">— The consistency of Peano Arithmetic PA is provable in PA, after all</div>
+
+      <p>
+        We show that the famous consistency formula Con(PA) for Peano Arithmetic PA, "no x is a code of a derivation of (0=1),"
+        is strictly stronger in PA than the statement "PA is consistent." Hence, despite the widespread belief, the unprovability of Con(PA) in PA does not yield the unprovability of consistency.
+        Furthermore, we demonstrate that "PA is consistent" is provable in PA. These findings apply to a broad class of formal theories, including ZF set theory.
+      </p>
+
+      <p>
+        We also discuss the potential impact of these findings on the foundations of mathematics and the theory of cognition.
+      </p>
+
+      <p><strong>References:</strong></p>
+      <ol>
+        <li>
+          Sergei Artemov,
+          <a href="https://doi.org/10.48550/arXiv.2508.20346">Consistency formula is strictly stronger in PA than PA-consistency</a>.
+        </li>
+        <li>
+          Sergei Artemov,
+          <a href="https://doi.org/10.1093/logcom/exae034">Serial properties, selector proofs and the provability of consistency</a>,
+          <em>Journal of Logic and Computation</em>, Volume 35, Issue 3, April 2025, exae034.
+        </li>
+      </ol>
+
+      <div class="poster">
+        <a href="Artemov.png"><img src="Artemov.png" alt="Poster: Sergei N. Artemov" /></a>
+      </div>
+    </div>
+
+    <div class="event">
+      <div class="date">
+        February 8, 2025 <span class="small">(rus,</span>
+        <a href="https://www.youtube.com/watch?v=3hWWRcXjXf0">link</a>
+        <span class="small">)</span>
+      </div>
+
+      <div class="speaker">
+        <a href="https://philomatica.org/"><strong>Andrei Rodin</strong></a>
+        (Archives Henri-Poincaré, university of Lorraine, France)
+      </div>
+
+      <div class="title">— Vladimir Voevodsky on the concept of mathematical structure</div>
+
+      <p>
+        In our email correspondence from 2016, Vladimir Voevodsky proposed an original concept of mathematical structure.
+        This concept was motivated by his work in homotopy type theory on the one hand, and his reading of Proclus's commentary on Euclid's definition of a plane angle (Definition 1.8 of the "Elements") on the other.
+        In my presentation, I will introduce Vladimir's conception of mathematical structure, compare it with standard conceptions, and touch upon some of the questions Vladimir raised in our correspondence.
+      </p>
+
+      <p>
+        This presentation is based on the article <a href="https://arxiv.org/abs/2409.02935">arXiv:2409.02935</a>.
+      </p>
+    </div>
+
+    <div class="event">
+      <div class="date">
+        January 31, 2025 <span class="small">(eng,</span>
+        <a href="https://drive.google.com/file/d/1XsuwlvzPAewGceMy_vdcvIhCckp5A9K0/view?usp=drive_link">link</a>
+        <span class="small">)</span>
+      </div>
+
+      <div class="speaker">
+        <a href="http://www.sci.brooklyn.cuny.edu/~noson/"><strong>Noson S. Yanofsky</strong></a>
+        (Professor of Computer and Information Science at Brooklyn College and The Graduate Center, CUNY)
+      </div>
+
+      <div class="title">— Self-Referential Paradoxes</div>
+
+      <p>
+        Over the past 150 years, some of the most profound and influential theorems in mathematics and computer science have emerged from self-referential paradoxes.
+        These theorems deal with systems that exhibit self-reference, challenging our understanding of fundamental concepts. This presentation will explore:
+      </p>
+
+      <ol>
+        <li>Georg Cantor's Theorem: Demonstrating the existence of different levels of infinity.</li>
+        <li>Bertrand Russell's Paradox: Exposing inconsistencies in naive set theory.</li>
+        <li>Kurt Gödel's Incompleteness Theorems: Revealing inherent limitations in formal systems and the notion of mathematical proof.</li>
+        <li>Alan Turing's Halting Problem: Proving the existence of unsolvable computational problems.</li>
+      </ol>
+
+      <p>
+        Remarkably, these diverse theorems, along with several others, can be understood as manifestations of a single, elegant theorem from basic category theory.
+        This presentation will elucidate this theorem and demonstrate its various instances.
+      </p>
+
+      <div class="poster">
+        <a href="Yanofsky.png"><img src="Yanofsky.png" alt="Poster: Noson S. Yanofsky" /></a>
+      </div>
+    </div>
+
+  </main>
 </body>
 </html>
