@@ -4,116 +4,167 @@
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1" />
   <title>Seminar on Mathematical Logic and Category Theory</title>
+
+  <!-- Google Font: Lora -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,600;0,700;1,400&display=swap" rel="stylesheet">
+
   <style>
-    /* Light, academic, readable */
+    /* Light, academic, readable — tuned typography */
+    :root{
+      --text: #111;
+      --muted: #333;
+      --link: #0033cc;
+      --border: #d0d0d0;
+      --card-border: #e0e0e0;
+      --card-bg: #fafafa;
+
+      /* Vertical rhythm */
+      --space-1: 8px;
+      --space-2: 12px;
+      --space-3: 16px;
+      --space-4: 22px;
+      --space-5: 28px;
+      --space-6: 44px;
+    }
+
     body{
       margin:0;
-      font-family: Georgia, "Times New Roman", Times, serif;
-      line-height:1.7;
+      font-family: 'Lora', serif;
+      font-size: 17px;              /* базовый кегль */
+      line-height: 1.75;            /* книжная межстрочка */
       background:#ffffff;
-      color:#111;
+      color: var(--text);
+      -webkit-font-smoothing: antialiased;
+      text-rendering: optimizeLegibility;
+      font-kerning: normal;
+      font-feature-settings: "kern" 1, "liga" 1;
     }
+
     .wrap{
-      max-width: 1100px; /* чуть шире, чтобы заголовок влезал */
+      max-width: 1100px;            /* чтобы заголовок влезал */
       margin: 64px auto;
       padding: 0 22px;
     }
+
+    /* Headings */
     h1,h2,h3{
-      line-height:1.25;
       color:#000;
-      margin: 0 0 12px 0;
+      margin: 0 0 var(--space-2) 0;
+      letter-spacing: 0;
     }
 
-    /* Адаптивный заголовок: в одну строку на десктопе, переносится на мобильных */
+    /* H1: one-line on desktop, wraps on mobile */
     h1{
-      font-size: clamp(1.6rem, 3vw, 2.2rem);
-      line-height: 1.15;
-      padding-bottom: 14px;
-      border-bottom: 1px solid #d0d0d0;
-      margin-bottom: 18px;
+      font-weight: 700;
+      font-size: clamp(1.75rem, 2.6vw, 2.25rem);
+      line-height: 1.12;
+      padding-bottom: var(--space-3);
+      border-bottom: 1px solid var(--border);
+      margin-bottom: var(--space-4);
       white-space: nowrap;
     }
-
-    @media (max-width: 900px) {
-      h1 {
-        white-space: normal;
-      }
+    @media (max-width: 900px){
+      h1{ white-space: normal; }
     }
 
     h2{
-      font-size: 1.15rem;
-      margin-top: 44px;
+      font-weight: 700;
+      font-size: 0.95rem;           /* чуть меньше, чтобы было "академично" */
+      letter-spacing: .12em;
       text-transform: uppercase;
-      letter-spacing: .06em;
+      margin-top: var(--space-6);
+      margin-bottom: var(--space-2);
     }
-    p, li{
-      text-align: justify;          /* выравнивание по обоим краям */
+
+    /* Text */
+    p{
+      margin: 0 0 var(--space-3) 0;
+      text-align: justify;
       text-justify: inter-word;
+      hyphens: auto;
     }
+    li{
+      text-align: justify;
+      text-justify: inter-word;
+      hyphens: auto;
+    }
+
+    /* Lists */
+    ul,ol{
+      padding-left: 22px;
+      margin: 0 0 var(--space-3) 0;
+    }
+    li{ margin: 0 0 6px 0; }
+
+    /* Links */
     a{
-      color:#0033cc;
-      text-decoration:none;
+      color: var(--link);
+      text-decoration: none;
+      overflow-wrap:anywhere;
     }
-    a:hover{ text-decoration:underline; }
-    ul,ol{ padding-left: 22px; }
+    a:hover{ text-decoration: underline; }
+
     hr{
       border:none;
-      border-top:1px solid #d0d0d0;
-      margin: 28px 0;
+      border-top:1px solid var(--border);
+      margin: var(--space-5) 0;
     }
 
-
     /* Blocks */
-    .meta{ margin: 14px 0; }
-    .section-note{ margin: 10px 0 18px; color:#333; }
+    .meta{ margin: 0 0 var(--space-3) 0; }
+    .section-note{ margin: 0 0 var(--space-3) 0; color: var(--muted); }
 
     .event{
-      margin: 18px 0 28px;
+      margin: 0 0 var(--space-4) 0;
       padding: 16px 16px;
-      border: 1px solid #e0e0e0;
+      border: 1px solid var(--card-border);
       border-radius: 12px;
-      background: #fafafa;
+      background: var(--card-bg);
     }
     .event .date{
       font-weight: 700;
-      margin-bottom: 6px;
+      margin: 0 0 6px 0;
     }
     .event .speaker{
-      margin: 6px 0 0;
+      margin: 0 0 0 0;
     }
     .event .title{
-      margin: 10px 0 0;
+      margin: 10px 0 0 0;
       font-style: italic;
     }
     .event .links{
-      margin: 8px 0 0;
+      margin: 8px 0 0 0;
     }
     .event .links a{
       margin-right: 10px;
       white-space: nowrap;
     }
     .poster-link{
-      margin: 8px 0 0;
+      margin: 8px 0 0 0;
     }
     .poster-link a{
       font-weight: 600;
     }
     .small{
-      color:#333;
+      color: var(--muted);
       font-weight: 400;
     }
 
-    /* Quotes / emphasized excerpts */
+    /* Quotes */
     blockquote{
-      margin: 14px 0;
+      margin: 14px 0 var(--space-3) 0;
       padding: 10px 14px;
       border-left: 3px solid #c8c8c8;
       background: #ffffff;
     }
     blockquote p{ margin: 0; }
 
-    /* Make long URLs wrap nicely */
-    a{ overflow-wrap:anywhere; }
+    /* Better reading width on very large screens */
+    @media (min-width: 1400px){
+      .wrap{ max-width: 1180px; }
+    }
   </style>
 </head>
 
@@ -242,213 +293,7 @@
       </p>
     </div>
 
-    <div class="event">
-      <div class="date">
-        October 18, 2025 <span class="small">(eng)</span>
-      </div>
-
-      <div class="links">
-        <a href="https://www.youtube.com/watch?v=ECwdmkPYOWU" target="_blank" rel="noopener noreferrer">Video</a>
-        <a href="https://drive.google.com/file/d/1KqJVitxq0tIqx53ZCj4EoKcYOWlw-J2e/view?usp=sharing" target="_blank" rel="noopener noreferrer">Slides</a>
-      </div>
-
-      <div class="speaker">
-        <a href="https://philosophy.berkeley.edu/mancosu/" target="_blank" rel="noopener noreferrer"><strong>Paolo Mancosu</strong></a>
-        (Willis S. and Marion Slusser Professor of Philosophy, Department of Philosophy, UC Berkeley)
-      </div>
-
-      <div class="title">— Three applications of Zermelo's theorem on part-whole</div>
-
-      <p>
-        The aim of the presentation is to give a general overview of the application of a result by Ernst
-        Zermelo to three very different areas of investigation: abstraction principles in neologicism, the axiom of
-        choice in second-order logic, and regularity properties in probability theory. The talk is based on three
-        articles that have recently appeared (see bibliography).
-      </p>
-
-      <p><strong>Bibliography:</strong></p>
-      <ol>
-        <li>
-          2019, (with Benjamin Siskind),
-          <a href="https://www.degruyterbrill.com/document/doi/10.1515/9783110657883-014/html?srsltid=AfmBOorJpjKn8QBJxlwj4txWtQE2Q0doE7Wmdtl_ZyhNcTvUmIx6_a-Q"
-             target="_blank" rel="noopener noreferrer">
-            “Neologicist Foundations: Inconsistent abstraction principles and part-whole”
-          </a>,
-          in Mras, Gabriele M.; Weingartner, Paul; Ritter, Bernhard (eds.), <em>Philosophy of Logic and Mathematics: Proceedings of the 41st International Wittgenstein Symposium</em>.
-          De Gruyter, Berlin, Munich, Boston, 2019, pp. 215–248.
-        </li>
-        <li>
-          2023, (with Benjamin Siskind and Stewart Shapiro),
-          <a href="https://www.cambridge.org/core/journals/review-of-symbolic-logic/article/note-on-choice-principles-in-secondorder-logic/1BE5AB5877E680848B7A1AE4A58DBAA4"
-             target="_blank" rel="noopener noreferrer">
-            “A note on choice principles in second-order logic”
-          </a>,
-          <em>The Review of Symbolic Logic</em>, 16(2), pp. 339-350.
-        </li>
-        <li>
-          2024, (with Guillaume Massas),
-          <a href="https://www.cambridge.org/core/journals/philosophy-of-science/article/totality-regularity-and-cardinality-in-probability-theory/1FABB0AD8522D2634335CC584D58BF56"
-             target="_blank" rel="noopener noreferrer">
-            “Totality, Regularity and Cardinality in Probability Theory”
-          </a>,
-          <em>Philosophy of Science</em>, 91, 721–740.
-        </li>
-      </ol>
-
-      <p class="poster-link">
-        <a href="Mancosu.png" target="_blank" rel="noopener noreferrer">Poster</a>
-      </p>
-    </div>
-
-    <div class="event">
-      <div class="date">
-        October 04, 2025 <span class="small">(eng)</span>
-      </div>
-
-      <div class="links">
-        <a href="https://youtu.be/JNPU41FBSAE?si=4NFm2lHinEfwHT56" target="_blank" rel="noopener noreferrer">Video</a>
-        <a href="https://drive.google.com/file/d/19aYGwkx5zSmi48L-bQcCl67Kx8z0zxEU/view?usp=sharing" target="_blank" rel="noopener noreferrer">Slides</a>
-      </div>
-
-      <div class="speaker">
-        <a href="https://www.cs.cornell.edu/home/halpern/" target="_blank" rel="noopener noreferrer"><strong>Joseph Y. Halpern</strong></a>
-        (Joseph C. Ford Professor in the Computer Science Department at Cornell Univeesity)
-      </div>
-
-      <div class="title">— Actual Causality: A Survey</div>
-
-      <p>
-        What does it mean that an event C "actually caused" event E? The problem of defining actual causation goes beyond mere philosophical speculation.
-      </p>
-
-      <p>
-        For example, in many legal arguments, it is precisely what needs to be established in order to determine responsibility.
-        (What exactly was the actual cause of the car accident or the medical problem?) The philosophy literature has been struggling with the problem of defining causality since the days of Hume, in the 1700s.
-        Many of the definitions have been couched in terms of counterfactuals. (C is a cause of E if, had C not happened, then E would not have happened.)
-        In 2001, Judea Pearl and I introduced a new definition of actual cause, using Pearl's notion of structural equations to model counterfactuals.
-        The definition has been revised twice since then, extended to deal with notions like "responsibility" and "blame", and applied in databases and program verification.
-        I survey the last 15 years of work here, including joint work with Judea Pearl, Hana Chockler, and Chris Hitchcock. The talk will be completely self-contained.
-      </p>
-
-      <p class="poster-link">
-        <a href="Halpern.png" target="_blank" rel="noopener noreferrer">Poster</a>
-      </p>
-    </div>
-
-    <div class="event">
-      <div class="date">
-        September 13, 2025 <span class="small">(rus)</span>
-      </div>
-
-      <div class="links">
-        <a href="https://www.youtube.com/watch?v=VI1TzoN_DVs" target="_blank" rel="noopener noreferrer">Video</a>
-        <a href="https://drive.google.com/file/d/1zwGujcqYpOlhljM0_OpUbsim5Co4SiCw/view?usp=sharing" target="_blank" rel="noopener noreferrer">Slides</a>
-      </div>
-
-      <div class="speaker">
-        <a href="https://sartemov.ws.gc.cuny.edu/" target="_blank" rel="noopener noreferrer"><strong>Sergei N. Artemov</strong></a>
-        (Distinguished Professor of the Graduate Center of the City University of New York)
-      </div>
-
-      <div class="title">— The consistency of Peano Arithmetic PA is provable in PA, after all</div>
-
-      <p>
-        We show that the famous consistency formula Con(PA) for Peano Arithmetic PA, "no x is a code of a derivation of (0=1),"
-        is strictly stronger in PA than the statement "PA is consistent." Hence, despite the widespread belief, the unprovability of Con(PA) in PA does not yield the unprovability of consistency.
-        Furthermore, we demonstrate that "PA is consistent" is provable in PA. These findings apply to a broad class of formal theories, including ZF set theory.
-      </p>
-
-      <p>
-        We also discuss the potential impact of these findings on the foundations of mathematics and the theory of cognition.
-      </p>
-
-      <p><strong>References:</strong></p>
-      <ol>
-        <li>
-          Sergei Artemov,
-          <a href="https://doi.org/10.48550/arXiv.2508.20346" target="_blank" rel="noopener noreferrer">
-            Consistency formula is strictly stronger in PA than PA-consistency
-          </a>.
-        </li>
-        <li>
-          Sergei Artemov,
-          <a href="https://doi.org/10.1093/logcom/exae034" target="_blank" rel="noopener noreferrer">
-            Serial properties, selector proofs and the provability of consistency
-          </a>,
-          <em>Journal of Logic and Computation</em>, Volume 35, Issue 3, April 2025, exae034.
-        </li>
-      </ol>
-
-      <p class="poster-link">
-        <a href="Artemov.png" target="_blank" rel="noopener noreferrer">Poster</a>
-      </p>
-    </div>
-
-    <div class="event">
-      <div class="date">
-        February 8, 2025 <span class="small">(rus)</span>
-      </div>
-
-      <div class="links">
-        <a href="https://www.youtube.com/watch?v=3hWWRcXjXf0" target="_blank" rel="noopener noreferrer">Video</a>
-      </div>
-
-      <div class="speaker">
-        <a href="https://philomatica.org/" target="_blank" rel="noopener noreferrer"><strong>Andrei Rodin</strong></a>
-        (Archives Henri-Poincaré, university of Lorraine, France)
-      </div>
-
-      <div class="title">— Vladimir Voevodsky on the concept of mathematical structure</div>
-
-      <p>
-        In our email correspondence from 2016, Vladimir Voevodsky proposed an original concept of mathematical structure.
-        This concept was motivated by his work in homotopy type theory on the one hand, and his reading of Proclus's commentary on Euclid's definition of a plane angle (Definition 1.8 of the "Elements") on the other.
-        In my presentation, I will introduce Vladimir's conception of mathematical structure, compare it with standard conceptions, and touch upon some of the questions Vladimir raised in our correspondence.
-      </p>
-
-      <p>
-        This presentation is based on the article <a href="https://arxiv.org/abs/2409.02935" target="_blank" rel="noopener noreferrer">arXiv:2409.02935</a>.
-      </p>
-    </div>
-
-    <div class="event">
-      <div class="date">
-        January 31, 2025 <span class="small">(eng)</span>
-      </div>
-
-      <div class="links">
-        <a href="https://drive.google.com/file/d/1XsuwlvzPAewGceMy_vdcvIhCckp5A9K0/view?usp=drive_link" target="_blank" rel="noopener noreferrer">Link</a>
-      </div>
-
-      <div class="speaker">
-        <a href="http://www.sci.brooklyn.cuny.edu/~noson/" target="_blank" rel="noopener noreferrer"><strong>Noson S. Yanofsky</strong></a>
-        (Professor of Computer and Information Science at Brooklyn College and The Graduate Center, CUNY)
-      </div>
-
-      <div class="title">— Self-Referential Paradoxes</div>
-
-      <p>
-        Over the past 150 years, some of the most profound and influential theorems in mathematics and computer science have emerged from self-referential paradoxes.
-        These theorems deal with systems that exhibit self-reference, challenging our understanding of fundamental concepts. This presentation will explore:
-      </p>
-
-      <ol>
-        <li>Georg Cantor's Theorem: Demonstrating the existence of different levels of infinity.</li>
-        <li>Bertrand Russell's Paradox: Exposing inconsistencies in naive set theory.</li>
-        <li>Kurt Gödel's Incompleteness Theorems: Revealing inherent limitations in formal systems and the notion of mathematical proof.</li>
-        <li>Alan Turing's Halting Problem: Proving the existence of unsolvable computational problems.</li>
-      </ol>
-
-      <p>
-        Remarkably, these diverse theorems, along with several others, can be understood as manifestations of a single, elegant theorem from basic category theory.
-        This presentation will elucidate this theorem and demonstrate its various instances.
-      </p>
-
-      <p class="poster-link">
-        <a href="Yanofsky.png" target="_blank" rel="noopener noreferrer">Poster</a>
-      </p>
-    </div>
-
+    <!-- Остальной контент оставляй как у тебя: стиль уже доведён и применится ко всем блокам -->
   </main>
 </body>
 </html>
