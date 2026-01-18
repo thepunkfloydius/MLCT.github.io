@@ -5,7 +5,7 @@ The seminar has two types of activities:
 1. Organization of plenary talks by invited speakers;
 2. Seminar-style classes on a given topic.
 
- Seminar organizers: Ramazan Ayupov & Arnold Grigorian (LMU München). 
+ Seminar organizers: Arnold Grigorian (LMU München) & Ramazan Ayupov. 
 
  If you would like to become a participant in the seminar, give a talk, or simply receive announcements, please write to one of the following emails:
  - arnold.g1020 [at] gmail [dot] com
