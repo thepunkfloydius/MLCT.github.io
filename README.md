@@ -13,7 +13,7 @@ The seminar has two types of activities:
 
    [The seminar's chat on Telegram](https://t.me/+nxHPt0oVrXwyMGRi) (rus).
 
-   Since December 2025, the seminar has not been affiliated with any institution.
+Since December 2025, the seminar has not been affiliated with any institution.
    
    <br>
 
