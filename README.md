@@ -10,11 +10,11 @@ The seminar has two types of activities:
  If you would like to become a participant in the seminar, give a talk, or simply receive announcements, please write to one of the following emails:
  - arnold.g1020 [at] gmail [dot] com
  - ramazan.i.ayupov [at] gmail [dot] com
- 
-Since December 2025, the seminar has not been affiliated with any institution.
 
    [The seminar's chat on Telegram](https://t.me/+nxHPt0oVrXwyMGRi) (rus).
 
+   Since December 2025, the seminar has not been affiliated with any institution.
+   
    <br>
 
 **UPCOMING EVENTS**
